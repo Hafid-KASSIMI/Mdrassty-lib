@@ -1,0 +1,35 @@
+/* 
+    Author     : H. KASSIMI
+*/
+
+
+@font-face {
+    src: url('../fonts/icomoon.ttf');
+}
+
+@font-face {
+    src: url('../fonts/tahoma.ttf');
+}
+
+@font-face {
+    src: url('../fonts/tahomabd.ttf');
+}
+
+.root {
+    -fx-nm-color-1 : #8191a6;
+    -fx-nm-color-2 : #f2dc9b;
+    -fx-nm-color-3 : #f2836b;
+    -fx-nm-color-4 : #bfbfbf;
+    -fx-nm-color-5 : #404040;
+    -fx-nm-black : #000000;
+    -fx-nm-dark-grey : #616161;
+    -fx-nm-grey : #9e9e9e;
+    -fx-nm-light-grey : #f1f1f1;
+    -fx-nm-white : #ffffff;
+    
+    -fx-font-smoothing-type: lcd;
+}
+
+.icm, .icon {
+    -fx-font-family: "IcoMoon-Free";
+}
